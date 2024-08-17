@@ -1,15 +1,17 @@
-# brain_tumor_classification
+# brain_tumor_classification 🧠
 ## UBA - Universidad de Buenos Aires
-## Trabajo final de Visión por computadora II  
-## Alumnos: Matías Werbin y Noelia Qualindi
+Trabajo final de Visión por computadora II - Cohorte 14 - Año 2024
 
-![alt text](image.png)
-![alt text](image-1.png)
+Alumnos: Matías Werbin y Noelia Qualindi
 
-[Demo link](https://huggingface.co/spaces/noequalindi/brain_tumor_classification)
+## [Demo link en hugging face 🧠](https://huggingface.co/spaces/noequalindi/brain_tumor_classification)
+### [Dataset utilizado](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri)
+![image](https://github.com/user-attachments/assets/500aa75a-fe15-4b5a-880e-9393d0318803)
 
-![alt text](image-2.png)
+![image](https://github.com/user-attachments/assets/865f32fb-9913-4875-b2f7-6600379b61fb)
 
-Los modelos clasifican en 4 clases posibles: No Tumor, Meningioma Tumor, Glioma Tumor y Pituitarity tumor.
+![image](https://github.com/user-attachments/assets/3e494b26-aad2-4adc-bd39-e85079b399a1)
 
-![alt text](image-3.png)
+### Los modelos clasifican en 4 clases posibles: No Tumor, Meningioma Tumor, Glioma Tumor y Pituitarity tumor.
+
+![image](https://github.com/user-attachments/assets/cebb212b-d67a-4e3e-803d-e33b41f142e3)
