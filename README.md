@@ -6,7 +6,7 @@ Alumnos: Matías Werbin y Noelia Qualindi
 
 ## [Demo link en hugging face 🧠](https://huggingface.co/spaces/noequalindi/brain_tumor_classification)
 ### [Dataset utilizado](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri)
-![image](https://github.com/user-attachments/assets/500aa75a-fe15-4b5a-880e-9393d0318803)
+![image](https://github.com/user-attachments/assets/98d51ea2-0bf7-472b-a4e8-0219b2d98468)
 
 ![image](https://github.com/user-attachments/assets/865f32fb-9913-4875-b2f7-6600379b61fb)
 
